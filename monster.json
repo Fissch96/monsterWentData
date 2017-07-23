@@ -603,6 +603,8 @@
   
   "40": {
     "name": "Daruchi", 
+    "evolveTo": "41", 
+    "evolveLevel": 30, 
     "types": [
       "dragon"
     ], 
@@ -647,7 +649,9 @@
   },
   
   "43": {
-    "name": "Magni", 
+    "name": "Magni",
+    "evolveTo": "44", 
+    "evolveLevel": 28, 
     "types": [
       "electro","chaos"
     ], 
